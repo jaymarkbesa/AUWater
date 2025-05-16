@@ -1,5 +1,5 @@
-# Sales and Management System
-This is the Sales and Employee Management System for AU Water Refilling Station.
+# Sales Commission System
+This is the Sales Commision System for AU Water Refilling Station.
 
 Software Engineer, this program was developed by Caranguian, Emilfred on his time being a third and fourth year student. <br>
 Data and System Analyst, the performance was reviewed and tested by Besa, Jaymark on his time being a third and fourth year student. <br>
